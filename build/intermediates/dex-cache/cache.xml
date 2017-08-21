@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_35c929f077a74dcd126c626a8c1bdd45dd279251.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bob/.gradle/caches/modules-2/files-2.1/com.darwinsys/hirondelle-date4j/1.5.1/7b52de513f87ae4d9ff5d17518def0a1e9bc3df0/hirondelle-date4j-1.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7b52de513f87ae4d9ff5d17518def0a1e9bc3df0">
+        <dex dex="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/pre-dexed/debug/hirondelle-date4j-1.5.1_f7a25cce54bfe7a805b10059d9e1faab2e4a369d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_2e08fc2b428099c69879f8bc2ae19ccbf907c657/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_eede81cef79fc479dc23b0b89836006d6a98f823/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_92c07258bb4584f17d7f8197548dff60c549acfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_322e587d8593d0a82a48d9989dde51d240998e84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_5c5ac65296d4b69ef2a5acd1abece8a549009ec5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bob/.gradle/caches/modules-2/files-2.1/com.github.scribejava/scribejava-core/3.2.0/8a48c3373a17c5f69144edbf7211cb3b2498ddd4/scribejava-core-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a48c3373a17c5f69144edbf7211cb3b2498ddd4">
+        <dex dex="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/pre-dexed/debug/scribejava-core-3.2.0_42cc59e423d29436908fb41d24766735054976fd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_5511b85c5ce61ee52de82473fba64b6d3ec29506/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_c801ec9f061838d942d3c69f16ffe71271367015.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_569a1f692694c5df83f1f484fc3126a20191cc6b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bob/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_20e382c90746340745aca7d21a78eb9353eaff46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_56a75a305bd7d5254738360117febf0dfe775294/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/exploded-aar/com.mcxiaoke.volley/library-aar/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mcxiaoke.volley-library-aar-1.0.0_95d7e991653c21cf22b4d3533e3363ed5558ed57/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_2abc15013753e2bf1617d160708d7584659a7780.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_a0e9fc4ba5d1c1905836343ed2120af0d19d06c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_17ee2fc39bcb0bdc39592982131f3f44aaadb2d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bob/.gradle/caches/modules-2/files-2.1/com.github.scribejava/scribejava-apis/3.2.0/fe361e330f5a8f9c29ee31df2b4705d94c788e04/scribejava-apis-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe361e330f5a8f9c29ee31df2b4705d94c788e04">
+        <dex dex="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/pre-dexed/debug/scribejava-apis-3.2.0_5598330dccf5a43fc4893d7363596496e220d3fb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_d7cdcbfca1835cf71583ee2697dde9ead02ca7f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_771092e43756ee41f3bceadd944492f1073be429/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c025421f9e1f4d4b8b6fd21822aaaf463ad4ffe">
+        <dex dex="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8c9aac9f105564e884ec3d4f7a3fb5996eec129a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/exploded-aar/Organized/organizedlib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c7da104e6936c973f3c266dce4c8d29551d988b">
+        <dex dex="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/pre-dexed/debug/Organized-organizedlib-unspecified_0c8fcc5c0b08b20a65b21080b20fb81f995038c9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_8c49c66de2dcd6f4800cb1bcdf335342ab7fe99f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_97628e9cc6db34e85028f7f4fefadfee66313146.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_54474926a2e14698178ec7822f2743625ccac120.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_fdb8383b31cf1abbb96316421cf4f7558cd97966.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/exploded-aar/com.roomorama/caldroid/3.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fea01abd91186a7148aaaf8c517b823eedaac79a">
+        <dex dex="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/pre-dexed/debug/com.roomorama-caldroid-3.0.1_50fccfb475a7695dc2b281b73f8bc0c52c17d366.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_433bced09545a3bd3dc40e5a06357d9742d24cb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b3e12a0d12c6712680f89951921da6af668a837d">
+        <dex dex="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6c9eb9faabd6f4c85bae554bb87752734788bbbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_4d6b11162a8d0e1b31f02071845b58c5dd5bc442/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bob/.gradle/caches/modules-2/files-2.1/com.darwinsys/hirondelle-date4j/1.5.1/7b52de513f87ae4d9ff5d17518def0a1e9bc3df0/hirondelle-date4j-1.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7b52de513f87ae4d9ff5d17518def0a1e9bc3df0">
+        <dex dex="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/transforms/dex/debug/folders/1000/10/hirondelle-date4j-1.5.1_f7a25cce54bfe7a805b10059d9e1faab2e4a369d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_9216630088712a937aa11a70595441b8ec671810/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_0a80526d06b3e7ed934c035ebd85af9e0bd646c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_7f158af203ea66e95a0d08ee7cc91560173b5e86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_0e2b6fb9815207766093425437edd1763f795c20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bob/.gradle/caches/modules-2/files-2.1/com.github.scribejava/scribejava-core/3.2.0/8a48c3373a17c5f69144edbf7211cb3b2498ddd4/scribejava-core-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a48c3373a17c5f69144edbf7211cb3b2498ddd4">
+        <dex dex="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/transforms/dex/debug/folders/1000/10/scribejava-core-3.2.0_42cc59e423d29436908fb41d24766735054976fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/exploded-aar/com.mcxiaoke.volley/library-aar/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/pre-dexed/debug/com.mcxiaoke.volley-library-aar-1.0.0_f11054cc5f30e7a330cab259ec66fd3f1a61a37c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_fc67cb29dd783301a612e45ce407ced7aa68e6e2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_a81fda5f7176fffa1b0ab6304d568997c4078c99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/exploded-aar/com.roomorama/caldroid/3.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fea01abd91186a7148aaaf8c517b823eedaac79a">
+        <dex dex="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.roomorama-caldroid-3.0.1_61eb15fb562f5183483ce4e2b591d592b85af3e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bob/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_20e382c90746340745aca7d21a78eb9353eaff46.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_eeb2c0df31bec30cb8bad76c6624b25c3319f934/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_c6eb7b38805826440fe5abfa25407bd805924ba2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bob/.gradle/caches/modules-2/files-2.1/com.github.scribejava/scribejava-apis/3.2.0/fe361e330f5a8f9c29ee31df2b4705d94c788e04/scribejava-apis-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe361e330f5a8f9c29ee31df2b4705d94c788e04">
+        <dex dex="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/transforms/dex/debug/folders/1000/10/scribejava-apis-3.2.0_5598330dccf5a43fc4893d7363596496e220d3fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_6ba8ec03e2e66c6131552eadbd7976dd7e032da1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_d3b4ff5b2e748f58712be9b7721380c630985a47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_4d60c133bdb5a00a8ac11c252476ccb4a7a5136b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/bob/Uni/Master/Werkstudent Bewerbung/Kupferwerk/Arbeitsproben/Organized/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_1371d6dd6c8036306238c2f12753b68ece0851ab.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/home/bob/Android/Projects/Uni/ASE/ASE_WS1617_Terminabstimmung-1/Organized/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_119d12b13911e1e297616360e0b0c742f873dd09/classes.dex" />
+    </item>
+
+</items>
